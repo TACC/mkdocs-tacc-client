@@ -17,4 +17,3 @@ For assistance with the MkDocs TACC theme:
 
 - Visit [official documentation](https://tacc.github.io/mkdocs-tacc/).
 - Check [GitHub repository](https://github.com/TACC/mkdocs-tacc/).
-- Review [example configurations](https://tacc.github.io/mkdocs-tacc/examples/).
