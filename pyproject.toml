@@ -20,5 +20,5 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://TACC.github.io/mkdocs-tacc-client"
+homepage = "https://tacc.github.io/mkdocs-tacc-client"
 github = "https://github.com/TACC/mkdocs-tacc-client"
